@@ -129,7 +129,7 @@
 
 | Method | Endpoint         | Description         | Headers/Body |
 |--------|------------------|---------------------|--------------|
-| GET    | /api/activities  | List all activities | None         |
+| GET    | /api/activity/get  | List all activities | None         |
 
 ---
 **Response:**
