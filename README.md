@@ -44,7 +44,7 @@
 4. Start server: `npm run dev`
 
 ## Environment Variables
-`MONGODB_URI` - MongoDB connection string  
+`MONGODB_URL` - MongoDB connection string  
 `JWT_SECRET` - Secret key for JWT  
 `PORT` - Server port (default: 3000)
 
