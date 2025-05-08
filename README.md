@@ -8,7 +8,7 @@
 - [Postman Link](#postman-collection)
 ##  Folder Structure
 ```
-/activity-booking-api
+
   ├── config/          - Database configuration
   │   └── dbConnection.js
   ├── controllers/     - Business logic
